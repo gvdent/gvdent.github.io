@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome! This page is meant as my dumping grounds for thoughts, links, and
+various other things which I find of interest.
 
-### More Information
+This page mosly started as an experiment on github pages, and a desire to go
+beyond the walled gardens that are other social networks. This entire page
+resides in a a [git repository](https://github.com/gvdent/gvdent.github.io),
+which is a fork from Jekyll Now.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
