@@ -8,6 +8,8 @@ title: Bookmarks
 
 [Philosophize this](http://philosophizethis.org/) - a podcast about philosophy
 
+[Social networks and ethics](https://plato.stanford.edu/entries/ethics-social-networking/)
+
 #Gaming
 
 [Play to win](http://www.sirlin.net/ptw/)
