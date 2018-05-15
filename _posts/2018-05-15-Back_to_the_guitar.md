@@ -8,6 +8,7 @@ attend university. Much of it has slipped my memory, but there are still some
 chords which just feel natural.
 
 ![Guitar](https://c2.staticflickr.com/8/7385/9584166228_6ab3f8c702_c.jpg)
+Image by [Freebird17 on flickr](https://www.flickr.com/photos/freebird_71/)
 
 When my daughter expressed interest in playing, naturally I would be the one to
 teach her at least initially. With kids you never know if it will stick. Or
