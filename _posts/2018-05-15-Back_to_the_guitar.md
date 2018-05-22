@@ -20,5 +20,7 @@ So off to find some teaching resources. Everyone on the internet
 called [Justin](https://www.justinguitar.com/) so I check it out and got hooked
 again! This guy is an amazing teacher <3
 
-
+Edit: [Synyster Gates](https://syngates.com) is also a pretty nice free online
+course, different approch though (via [this reddit
+thread](https://old.reddit.com/r/Guitar/comments/8kw1pm/newbie_any_good_online_courses/).
 
