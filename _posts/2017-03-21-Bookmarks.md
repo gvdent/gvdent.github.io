@@ -2,7 +2,7 @@
 layout: post
 title: Bookmarks
 ---
-#Philosophy
+# Philosophy
 
 [Listen, Cherish, Commit (not git)](http://ruru.name/entries/3-words-that-changed-me)
 
@@ -10,10 +10,13 @@ title: Bookmarks
 
 [Social networks and ethics](https://plato.stanford.edu/entries/ethics-social-networking/)
 
-#Gaming
+# Gaming
 
 [Play to win](http://www.sirlin.net/ptw/)
 
-#Nerding
+# Nerding
 
 [Trouble with FBI at age 11](http://web.stanford.edu/~learnest/les/crypto.htm)
+
+[Time and
+programming](https://zachholman.com/talk/utc-is-enough-for-everyone-right)\[[hn](https://news.ycombinator.com/item?id=17181046)\]
