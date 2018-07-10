@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Testpage
-permalink: /test/
+permalink: /test.html
 ---
 
-This is a test
+This is a test.
+
+No really, test.
