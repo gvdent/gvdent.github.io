@@ -6,14 +6,15 @@ title: Lootboxing
 So
 [another](https://arstechnica.com/gaming/2018/05/op-ed-game-companies-need-to-cut-the-crap-loot-boxes-are-obviously-gambling/)([hn](https://news.ycombinator.com/item?id=17175941))
 thread popped up on my radar regarding loot boxes. This has been a hot topic
-the past... timeframe, with FIFA 18 potentially banned in the Netherlands
-because of them. I have quit Hearthstone because of them being so core to the
-gameplay. The distinction between whether a game is free-to-play or not does
+the past weeks, with FIFA 18 potentially banned in the Netherlands
+because of them.
+
+The distinction between whether a game is free-to-play or not does
 not really make much of a difference, games should be played to enjoy. When
 a games require engaging in acts of gambling to achieve power, it can't really
-hold my interest anymore. Personally I can't be bothered to put the hours in
+hold my interest. I can't be bothered to put the hours in
 anymore, and spending money on the games makes me feel like I have to spend
-time on them as well, but that may just be me getting old.
+time on them as well, which is no fun. But that may just be me getting old.
 
 > Seems to me like we are in a race to to the bottom in all parts of the
 > software and entertainment industry.
