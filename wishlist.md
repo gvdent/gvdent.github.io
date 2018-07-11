@@ -17,8 +17,9 @@ Leuke strategy en actie game
 - [Slijpsteen keukenmessen](https://www.kookpunt.nl/coticule-slijpsteen-pyrenees-150x60mm/nl/product/41209/?sqr=slijpsteen%20) EUR 75
 Want scherpe messen zijn fijn
 - E-reader
-- [Electronisch drumstel](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-17kvx-v-drums-elektronisch-drumstel) EUR 1520 (en dan moet er nog een hihat statief en bass pedaal bij QQ)
-Guitar Hero drumstel begint te beperken (maar Blink's Damnit op expert heb ik nog niet gehaald)
+- Electronisch drumstel: Drumkruk en stokken heb ik al. Guitar Hero drumstel begint te beperken (then again Damnit van Blink 182 heb ik nog niet gehaald)
+  - [Yamaha DTX450K](https://www.bax-shop.nl/elektrisch-drumstel/yamaha-dtx450k-elektrisch-drumstel)
+  - [Roland TD-17KVX](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-17kvx-v-drums-elektronisch-drumstel) EUR 1520 (en dan moet er nog een hihat statief en bass pedaal bij QQ)
 - [Noise cancelling over ear headphones](https://www.coolblue.nl/product/788941/bose-quietcomfort-35-ii-wireless-zwart.html) EUR 360
 Voor tegen de airco op werk + tijdens werk in huis, kabeltje is toch wel vervelend
 - [Remote voor camera](https://www.cameratools.nl/foto-video-accessoires/afstandsbedieningen/caruba-ir-afstandsbediening-cml-l3-niko/) EUR 15 (of 30+ voor de officiele versie)
