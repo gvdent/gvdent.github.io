@@ -31,7 +31,7 @@ Sinds Gloomhaven is dit weer interessant aan het worden. EUR 45 p/stuk
 # Nintendo switch games
 #### [Mario vs Rabbids](https://www.bol.com/nl/p/mario-rabbids-kingdom-battle-switch/9200000079165771/)
 EUR 40
-Leuke turn based stragey game
+Leuke turn based strategy game
 #### [Mario Tennis](https://www.bol.com/nl/p/mario-tennis-aces-switch/9200000088311576/)
 EUR 55
 Actie game met fighting game trekjes door trick shots en couters
