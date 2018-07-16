@@ -59,7 +59,7 @@ Actie game met fighting game trekjes door trick shots en couters
 
 EUR 75
 
-Want scherpe messen zijn fijn, kan ik idd van Ger lenen maar daar blijk
+Want scherpe messen zijn fijn, kan ik idd van Ger lenen maar daar blijkt
 vooruitzicht voor nodig te zijn wat ik niet beheers.
 
 # E-reader
