@@ -49,7 +49,13 @@ Leuke turn based strategy game
 
 EUR 55
 
-Actie game met fighting game trekjes door trick shots en couters
+Actie game met fighting game trekjes door trick shots en counters
+
+#### [Octopath Traveller](https://www.bol.com/nl/p/octopath-traveler-switch/9200000091193302/?s2a=#product_title)
+
+EUR 63
+
+JRPG met hoog nostalgisch gehalte
 
 #### Eind 2018: Super Smash Bros
 #### 2019: Pokemon core game
