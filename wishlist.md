@@ -39,12 +39,6 @@ Sinds Gloomhaven is dit weer interessant aan het worden. EUR 45 p/stuk
 
 # Nintendo switch games
 
-#### [Mario vs Rabbids](https://www.bol.com/nl/p/mario-rabbids-kingdom-battle-switch/9200000079165771/)
-
-EUR 40
-
-Leuke turn based strategy game
-
 #### [Mario Tennis](https://www.bol.com/nl/p/mario-tennis-aces-switch/9200000088311576/)
 
 EUR 55
@@ -67,11 +61,6 @@ EUR 75
 
 Want scherpe messen zijn fijn, kan ik idd van Ger lenen maar daar blijkt
 vooruitzicht voor nodig te zijn wat ik niet beheers.
-
-# E-reader
-
-Lagere drempel om boeken te lezen, beter buiten leesbaar dan niet-e-ink
-schermen. Verlichtte achtergrond niet nodig.
 
 # Noise cancelling over ear wireless headphones
 [Bose](https://www.coolblue.nl/product/788941/bose-quietcomfort-35-ii-wireless-zwart.html)
