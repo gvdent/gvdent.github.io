@@ -11,6 +11,9 @@ Guitar Hero is leuk, maar daar in is het niet mogelijk zelf te spelen, enkel na
 doen met een merkbare delay. Voordeel is wel dat de drumkruk en stokken
 herbruikbaar zijn. Yamaha en Roland schijnen de stevige en betaalbare merken te
 zijn.
+#### [Remo oefenpad](https://www.bax-shop.nl/oefenpad/remo-rt-0008-0-8-inch-oefenpad)
+EUR 22 Stil oefenen, ook goed om mee te spelen tot ik zeker weet of het leuk
+blijft.
 #### [Yamaha DTX450K](https://www.bax-shop.nl/elektrisch-drumstel/yamaha-dtx450k-elektrisch-drumstel)
 EUR 550
 #### [Roland TD-17KVX](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-17kvx-v-drums-elektronisch-drumstel)
@@ -22,12 +25,6 @@ EUR 1520 (en dan moet er nog een hihat statief en bass pedaal bij :/ )
 EUR 35
 
 Voor de hasselback aardappels op de BBQ :)
-# Bakplaatje
-[voorbeeld](https://www.kookpunt.nl/nordic-ware-compact-bakplaat-25x18cm/nl/product/19775/?sqr=bakplaatje)
-
-EUR 15
-
-Hoeft niet moeilijk, is voor op de BBQ dus zal toch lekker vies worden.
 
 # Dungeon and Dragons:
 
@@ -88,6 +85,4 @@ stiekem wil ik hem wel :p
 
 # Altijd goed
 - Whisky
-- Boeken - Sci-fi (The Expanse), Fantasy, filosofie, wetenschap
-
 
