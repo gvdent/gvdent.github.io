@@ -36,17 +36,17 @@ Sinds Gloomhaven is dit weer interessant aan het worden. EUR 45 p/stuk
 
 # Nintendo switch games
 
-#### [Mario Tennis](https://www.bol.com/nl/p/mario-tennis-aces-switch/9200000088311576/)
-
-EUR 55
-
-Actie game met fighting game trekjes door trick shots en counters
-
 #### [Octopath Traveller](https://www.bol.com/nl/p/octopath-traveler-switch/9200000091193302/?s2a=#product_title)
 
-EUR 63
+EUR 56
 
 JRPG met hoog nostalgisch gehalte
+
+#### [Mario Tennis](https://www.bol.com/nl/p/mario-tennis-aces-switch/9200000088311576/)
+
+EUR 53
+
+Actie game met fighting game trekjes door trick shots en counters
 
 #### Eind 2018: Super Smash Bros
 #### 2019: Pokemon core game
