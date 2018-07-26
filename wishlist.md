@@ -31,7 +31,6 @@ Voor de hasselback aardappels op de BBQ :)
 Sinds Gloomhaven is dit weer interessant aan het worden. EUR 45 p/stuk
 
 #### [Player's Handbook](https://www.spellenhuis.nl/dungeons-dragons-player-s-handbook)
-#### [Dungeon Master Guide](https://www.spellenhuis.nl/dungeons-dragons-dungeon-master-s-guide)
 #### [Monster Manual](https://www.spellenhuis.nl/dungeons-dragons-monster-manual)
 
 # Nintendo switch games
