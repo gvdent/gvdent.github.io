@@ -86,4 +86,4 @@ stiekem wil ik hem wel :p
 
 # Altijd goed
 - Whisky
-
+- [Aparte DnD dobbelstenen](https://www.dnddice.com/sets-of-dice/unusual-sets.html) (EUR 10+) Normale heb ik, maar mooie zijn mooi.
