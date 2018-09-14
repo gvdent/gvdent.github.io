@@ -44,8 +44,10 @@ EUR 53
 
 Actie game met fighting game trekjes door trick shots en counters
 
-#### Eind 2018: Super Smash Bros
+#### 2018-11-16: Sid Meier's Civilization VI
+#### 2018-12-07: Super Smash Bros
 #### 2019: Pokemon core game
+#### ?: All the Final Fantasies
 
 # Slijpsteen keukenmessen
 [voorbeeld](https://www.kookpunt.nl/coticule-slijpsteen-pyrenees-150x60mm/nl/product/41209/?sqr=slijpsteen%20)
