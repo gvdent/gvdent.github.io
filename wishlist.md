@@ -8,16 +8,16 @@ Want anders vergeet ik ze, met voorbeeld links en prijsindicatie.
 
 # Electronisch drumstel:
 Guitar Hero is leuk, maar daar in is het niet mogelijk zelf te spelen, enkel na
-doen met een merkbare delay. Voordeel is wel dat de drumkruk en stokken
-herbruikbaar zijn. Yamaha en Roland schijnen de stevige en betaalbare merken te
-zijn.
-#### [Remo oefenpad](https://www.bax-shop.nl/oefenpad/remo-rt-0008-0-8-inch-oefenpad)
-EUR 22 Stil oefenen, ook goed om mee te spelen tot ik zeker weet of het leuk
-blijft.
+doen met een merkbare delay.
+
+Drumkruk en stokken heb ik.
+
+Yamaha en Roland schijnen de stevige en betaalbare merken te zijn.
+
 #### [Yamaha DTX450K](https://www.bax-shop.nl/elektrisch-drumstel/yamaha-dtx450k-elektrisch-drumstel)
 EUR 550
 #### [Roland TD-17KVX](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-17kvx-v-drums-elektronisch-drumstel)
-EUR 1520 (en dan moet er nog een hihat statief en bass pedaal bij :/ )
+EUR 1599 (en dan moet er nog een hihat statief en bass pedaal bij :/ )
 
 # Mandoline
 [voorbeeld](https://www.kookpunt.nl/benriner-mandoline-no64-wit/nl/product/2770/?sqr=mandoline)
@@ -38,14 +38,18 @@ EUR 56
 
 JRPG met hoog nostalgisch gehalte
 
-#### [Mario Tennis](https://www.bol.com/nl/p/mario-tennis-aces-switch/9200000088311576/)
+#### [2018-12-07: Super Smash Bros](https://www.bol.com/nl/p/super-smash-bros-ultimate-switch/9200000090938105/)
 
-EUR 53
+EUR 60
 
-Actie game met fighting game trekjes door trick shots en counters
+Fighting game
 
-#### 2018-11-16: Sid Meier's Civilization VI
-#### 2018-12-07: Super Smash Bros
+#### [Sid Meier's Civilization VI](https://www.bol.com/nl/p/civilization-vi-nintendo-switch/9200000099305346/)
+
+EUR 45
+
+Just one more turn
+
 #### 2019: Pokemon core game
 #### ?: All the Final Fantasies
 
