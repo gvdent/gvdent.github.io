@@ -30,7 +30,7 @@ Voor de hasselback aardappels op de BBQ :)
 
 #### [Monster Manual](https://www.spellenhuis.nl/dungeons-dragons-monster-manual) (EUR 45)
 
-# Nintendo switch games
+# Nintendo switch
 
 #### [Octopath Traveller](https://www.bol.com/nl/p/octopath-traveler-switch/9200000091193302/?s2a=#product_title)
 
@@ -43,6 +43,12 @@ JRPG met hoog nostalgisch gehalte
 EUR 60
 
 Fighting game
+
+#### [Nintendo Pro Controller](https://www.bol.com/nl/p/nintendo-pro-controller-zwart-switch/9200000073684267/)
+
+EUR 69
+
+Controller voor volwassen handen
 
 #### [Sid Meier's Civilization VI](https://www.bol.com/nl/p/civilization-vi-nintendo-switch/9200000099305346/)
 
