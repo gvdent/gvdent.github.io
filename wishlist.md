@@ -16,8 +16,22 @@ Yamaha en Roland schijnen de stevige en betaalbare merken te zijn.
 
 #### [Yamaha DTX452K](https://www.bax-shop.nl/elektronisch-drumstel/yamaha-dtx452k-elektronisch-drumstel)
 EUR 526
+
+Rubber pads, dus luidruchtiger
+
+#### [Roland TD-1DMK](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-1dmk-v-drums-elektronisch-drumstel)
+EUR 713
+
+Mesh pads, nadeel is de module.
+
+Bass drum pedal moet los gekocht worden.
+
 #### [Roland TD-17KVX](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-17kvx-v-drums-elektronisch-drumstel)
-EUR 1599 (en dan moet er nog een hihat statief en bass pedaal bij :/ )
+EUR 1599
+
+Betere snare, grotere pads, 2 crashes, beter geluid in module.
+
+Hihat statief en bass drum pedal moeten los gekocht.
 
 # Mandoline
 [voorbeeld](https://www.kookpunt.nl/benriner-mandoline-no64-wit/nl/product/2770/?sqr=mandoline)
