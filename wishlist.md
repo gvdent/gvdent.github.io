@@ -14,8 +14,8 @@ Drumkruk en stokken heb ik.
 
 Yamaha en Roland schijnen de stevige en betaalbare merken te zijn.
 
-#### [Yamaha DTX450K](https://www.bax-shop.nl/elektrisch-drumstel/yamaha-dtx450k-elektrisch-drumstel)
-EUR 550
+#### [Yamaha DTX452K](https://www.bax-shop.nl/elektronisch-drumstel/yamaha-dtx452k-elektronisch-drumstel)
+EUR 526
 #### [Roland TD-17KVX](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-17kvx-v-drums-elektronisch-drumstel)
 EUR 1599 (en dan moet er nog een hihat statief en bass pedaal bij :/ )
 
@@ -38,7 +38,7 @@ EUR 56
 
 JRPG met hoog nostalgisch gehalte
 
-#### [2018-12-07: Super Smash Bros](https://www.bol.com/nl/p/super-smash-bros-ultimate-switch/9200000090938105/)
+#### [Super Smash Bros](https://www.bol.com/nl/p/super-smash-bros-ultimate-switch/9200000090938105/)
 
 EUR 60
 
