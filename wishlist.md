@@ -52,12 +52,6 @@ EUR 56
 
 JRPG met hoog nostalgisch gehalte
 
-#### [Super Smash Bros](https://www.bol.com/nl/p/super-smash-bros-ultimate-switch/9200000090938105/)
-
-EUR 60
-
-Fighting game
-
 #### [Nintendo Pro Controller](https://www.bol.com/nl/p/nintendo-pro-controller-zwart-switch/9200000073684267/)
 
 EUR 69
