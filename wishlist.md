@@ -33,6 +33,13 @@ Betere snare, grotere pads, 2 crashes, beter geluid in module.
 
 Hihat statief en bass drum pedal moeten los gekocht.
 
+# Electrische gitaar
+
+[Epiphone Les Paul](https://www.bax-shop.nl/elektrische-gitaren/epiphone-les-paul-standard-ebony)
+EUR 432
+
+Zodat er ook 's avonds geoefend kan worden.
+
 # Mandoline
 [voorbeeld](https://www.kookpunt.nl/benriner-mandoline-no64-wit/nl/product/2770/?sqr=mandoline)
 
