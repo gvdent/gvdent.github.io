@@ -9,7 +9,7 @@
   <link type="application/atom+xml" rel="self" href="https://vanderent.eu/microblog.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <rights>Copyright © 2008–{{ site.time | date: "%Y" }} Gijs van der Ent</rights>
-  <id>https://ttimsmith.com</id>
+  <id>https://vanderent.eu</id>
   <author>
     <name>Gijs van der Ent</name>
     <uri>https://vanderent.eu</uri>
