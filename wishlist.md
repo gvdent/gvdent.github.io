@@ -59,12 +59,6 @@ EUR 56
 
 JRPG met hoog nostalgisch gehalte
 
-#### [Nintendo Pro Controller](https://www.bol.com/nl/p/nintendo-pro-controller-zwart-switch/9200000073684267/)
-
-EUR 69
-
-Controller voor volwassen handen
-
 #### [Sid Meier's Civilization VI](https://www.bol.com/nl/p/civilization-vi-nintendo-switch/9200000099305346/)
 
 EUR 45
@@ -73,14 +67,6 @@ Just one more turn
 
 #### 2019: Pokemon core game
 #### ?: All the Final Fantasies
-
-# Slijpsteen keukenmessen
-[voorbeeld](https://www.kookpunt.nl/coticule-slijpsteen-pyrenees-150x60mm/nl/product/41209/?sqr=slijpsteen%20)
-
-EUR 75
-
-Want scherpe messen zijn fijn, kan ik idd van Ger lenen maar daar blijkt
-vooruitzicht voor nodig te zijn wat ik niet beheers.
 
 # Noise cancelling over ear wireless headphones
 [Bose](https://www.coolblue.nl/product/788941/bose-quietcomfort-35-ii-wireless-zwart.html)
