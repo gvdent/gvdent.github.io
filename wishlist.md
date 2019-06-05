@@ -22,11 +22,12 @@ Rubber pads, dus luidruchtiger
 #### [Roland TD-1DMK](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-1dmk-v-drums-elektronisch-drumstel)
 EUR 713
 
-Mesh pads, nadeel is de module.
+Mesh pads, beperktere module.
 
 Bass drum pedal moet los gekocht worden.
 
 #### [Roland TD-17KVX](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-17kvx-v-drums-elektronisch-drumstel)
+[Alternatieve winkel](https://www.keymusic.com/nl/item/roland-td-17kvx/)
 EUR 1599
 
 Betere snare, grotere pads, 2 crashes, beter geluid in module.
@@ -39,6 +40,11 @@ Hihat statief en bass drum pedal moeten los gekocht.
 EUR 432
 
 Zodat er ook 's avonds geoefend kan worden.
+
+# Gitaar versterker
+
+Tja. Moeilijk. 10W solid state met clean geluid zou genoeg moeten zijn.
+
 
 # Mandoline
 [voorbeeld](https://www.kookpunt.nl/benriner-mandoline-no64-wit/nl/product/2770/?sqr=mandoline)
