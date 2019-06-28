@@ -45,6 +45,9 @@ Zodat er ook 's avonds geoefend kan worden.
 
 Tja. Moeilijk. 10W solid state met clean geluid zou genoeg moeten zijn.
 
+# Mooi koksmes
+
+[kan heel gek](https://www.knivesandtools.com/en/ct/kitchen-knives.htm)
 
 # Mandoline
 [voorbeeld](https://www.kookpunt.nl/benriner-mandoline-no64-wit/nl/product/2770/?sqr=mandoline)
@@ -53,17 +56,7 @@ EUR 35
 
 Voor de hasselback aardappels op de BBQ :)
 
-# Dungeon and Dragons:
-
-#### [Monster Manual](https://www.spellenhuis.nl/dungeons-dragons-monster-manual) (EUR 45)
-
 # Nintendo switch
-
-#### [Octopath Traveller](https://www.bol.com/nl/p/octopath-traveler-switch/9200000091193302/?s2a=#product_title)
-
-EUR 56
-
-JRPG met hoog nostalgisch gehalte
 
 #### [Sid Meier's Civilization VI](https://www.bol.com/nl/p/civilization-vi-nintendo-switch/9200000099305346/)
 
@@ -71,16 +64,7 @@ EUR 45
 
 Just one more turn
 
-#### 2019: Pokemon core game
-#### ?: All the Final Fantasies
-
-# Noise cancelling over ear wireless headphones
-[Bose](https://www.coolblue.nl/product/788941/bose-quietcomfort-35-ii-wireless-zwart.html)
-
-EUR 360
-
-Voor tegen de airco op werk + tijdens werk in huis, zonder kabel om beter te kunnen
-bewegen.
+#### [Pokemon Sword / Shield](https://www.bol.com/nl/p/pokemon-sword-switch/9200000107075673/)
 
 # Camera remote
 [Voor nikon D90](https://www.cameratools.nl/foto-video-accessoires/afstandsbedieningen/caruba-ir-afstandsbediening-cml-l3-niko/)
@@ -97,6 +81,10 @@ EUR 80
 
 Eep, toch een beetje duur, zeker voor een spiegel reflex. Toch maar niet, maar
 stiekem wil ik hem wel :p
+
+# Dungeon and Dragons:
+
+#### [Monster Manual](https://www.spellenhuis.nl/dungeons-dragons-monster-manual) (EUR 45)
 
 # Altijd goed
 - Whisky
