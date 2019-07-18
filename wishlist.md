@@ -6,6 +6,24 @@ permalink: /verlanglijst
 
 Want anders vergeet ik ze, met voorbeeld links en prijsindicatie.
 
+# Spellen
+
+Elin en Bram beginnen spelletjes leuk te vinden
+
+## Sushi Go
+EUR 12ish
+
+# Boeken
+
+## James S.A. Corey
+Engels
+- Abaddon's Gate
+- Cibola Burn
+- Nemesis Games
+- Babylon's Ashes
+- Persepolis Rising
+- Tiamat's Wrath
+
 # Electronisch drumstel:
 Guitar Hero is leuk, maar daar in is het niet mogelijk zelf te spelen, enkel na
 doen met een merkbare delay.
@@ -37,7 +55,7 @@ Hihat statief en bass drum pedal moeten los gekocht.
 # Electrische gitaar
 
 [Epiphone Les Paul](https://www.bax-shop.nl/elektrische-gitaren/epiphone-les-paul-standard-ebony)
-EUR 432
+EUR 390
 
 Zodat er ook 's avonds geoefend kan worden.
 
@@ -66,6 +84,8 @@ Just one more turn
 
 #### [Pokemon Sword / Shield](https://www.bol.com/nl/p/pokemon-sword-switch/9200000107075673/)
 
+Vanaf september 2019
+
 # Camera remote
 [Voor nikon D90](https://www.cameratools.nl/foto-video-accessoires/afstandsbedieningen/caruba-ir-afstandsbediening-cml-l3-niko/)
 
@@ -82,10 +102,7 @@ EUR 80
 Eep, toch een beetje duur, zeker voor een spiegel reflex. Toch maar niet, maar
 stiekem wil ik hem wel :p
 
-# Dungeon and Dragons:
-
-#### [Monster Manual](https://www.spellenhuis.nl/dungeons-dragons-monster-manual) (EUR 45)
-
 # Altijd goed
 - Whisky
 - [Aparte DnD dobbelstenen](https://www.dnddice.com/sets-of-dice/unusual-sets.html) (EUR 10+) Normale heb ik, maar mooie zijn mooi.
+- Zigbee lampen / sensors
