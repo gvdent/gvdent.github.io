@@ -25,10 +25,8 @@ Engels
 - Tiamat's Wrath
 
 # Electronisch drumstel:
-Guitar Hero is leuk, maar daar in is het niet mogelijk zelf te spelen, enkel na
-doen met een merkbare delay.
 
-Drumkruk en stokken heb ik.
+Voor Bram natuurlijk :p Drumkruk en stokken heb ik.
 
 Yamaha en Roland schijnen de stevige en betaalbare merken te zijn.
 
@@ -63,9 +61,9 @@ Zodat er ook 's avonds geoefend kan worden.
 
 Tja. Moeilijk. 10W solid state met clean geluid zou genoeg moeten zijn.
 
-# Mooi koksmes
+# Vijzel
 
-[kan heel gek](https://www.knivesandtools.com/en/ct/kitchen-knives.htm)
+Voor kruiden
 
 # Mandoline
 [voorbeeld](https://www.kookpunt.nl/benriner-mandoline-no64-wit/nl/product/2770/?sqr=mandoline)
