@@ -4,19 +4,25 @@ title: Verlanglijstje
 permalink: /verlanglijst
 ---
 
-Want anders vergeet ik ze, met voorbeeld links en prijsindicatie.
+Ideeën kadootjes. Al heb ik een voorkeur voor zelfverzonnen kado's. Geen
+kadobonnen, dat is me een deadline geven en die heb ik al genoeg :D
 
 # Spellen
-
-Elin en Bram beginnen spelletjes leuk te vinden
 
 ## Sushi Go
 EUR 12ish
 
+## Spirit Island
+[Sprit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
+Cooperative. Geen idee of het nog beschikbaar is.
+
+## Technisch Lego
+Tja
+
 # Boeken
 
 ## James S.A. Corey
-Engels
+Engels, Sci-fi
 - Abaddon's Gate
 - Cibola Burn
 - Nemesis Games
@@ -24,67 +30,71 @@ Engels
 - Persepolis Rising
 - Tiamat's Wrath
 
-# Electronisch drumstel:
+## Harmonic Experience
+[link](https://www.bol.com/nl/p/harmonic-experience/1001004000877100/)
 
-Voor Bram natuurlijk :p Drumkruk en stokken heb ik.
+## Gödel, Escher, Bach
+plzplzplz wel engels, anders kloppen de termen niet met hoe ik ze ken :D
 
-Yamaha en Roland schijnen de stevige en betaalbare merken te zijn.
+## Drum boek
+Met theorie / patronen
 
-#### [Yamaha DTX452K](https://www.bax-shop.nl/elektronisch-drumstel/yamaha-dtx452k-elektronisch-drumstel)
-EUR 526
+# Muziek
 
-Rubber pads, dus luidruchtiger
+## Drumstokken
+EUR 10+ (maar meer dan 20 is echt zonde)
 
-#### [Roland TD-1DMK](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-1dmk-v-drums-elektronisch-drumstel)
-EUR 713
+[lijst](https://www.bax-shop.nl/drumstokken?o=popular&f_21933%5B%5D=92778)
 
-Mesh pads, beperktere module.
+## Microfoon statief
+Voor aan bureau
+[voorbeeld](https://www.bax-shop.nl/broadcast-microfoon-statief/innox-iva-10-xlr-broadcast-microfoon-statief)
 
-Bass drum pedal moet los gekocht worden.
-
-#### [Roland TD-17KVX](https://www.bax-shop.nl/elektronisch-drumstel/roland-td-17kvx-v-drums-elektronisch-drumstel)
-[Alternatieve winkel](https://www.keymusic.com/nl/item/roland-td-17kvx/)
-EUR 1599
-
-Betere snare, grotere pads, 2 crashes, beter geluid in module.
-
-Hihat statief en bass drum pedal moeten los gekocht.
-
-# Electrische gitaar
+## Electrische gitaar
 
 [Epiphone Les Paul](https://www.bax-shop.nl/elektrische-gitaren/epiphone-les-paul-standard-ebony)
 EUR 390
 
-Zodat er ook 's avonds geoefend kan worden.
+## Gitaar versterker
 
-# Gitaar versterker
+[voorbeeld](https://www.bax-shop.nl/gitaarversterker-combo/fender-champion-40-gitaarversterker-combo)
+EUR 100+
 
-Tja. Moeilijk. 10W solid state met clean geluid zou genoeg moeten zijn.
+## Audio Interface
 
-# Vijzel
+[voorbeeld](https://www.bax-shop.nl/externe-audio-interface/behringer-u-phoria-umc202hd-audio-interface)
+EUR 60+
 
-Voor kruiden
+Voor opnemen gitaar/drums
 
-# Mandoline
+# Koken
+
+## Kamado BBQ
+EUR DUUR
+[Dit soort](https://www.coolblue.nl/barbecues/kamado-barbecues)
+
+## Vijzel
+EUR 30+
+
+## Mandoline
 [voorbeeld](https://www.kookpunt.nl/benriner-mandoline-no64-wit/nl/product/2770/?sqr=mandoline)
 
 EUR 35
 
-Voor de hasselback aardappels op de BBQ :)
+# Nintendo Switch games
+EUR 50+
 
-# Nintendo switch
+[Pokemon Sword / Shield](https://www.bol.com/nl/p/pokemon-sword-switch/9200000107075673/)
+[Octopath traveller](https://www.bol.com/nl/p/octopath-traveler-switch/9200000091193302/)
 
-#### [Sid Meier's Civilization VI](https://www.bol.com/nl/p/civilization-vi-nintendo-switch/9200000099305346/)
+# Foto / Video
 
-EUR 45
+## Chroma key groen achtergrond doek
+EUR 50+
 
-Just one more turn
+[voorbeeld](https://www.kamera-express.nl/product/12195023/bresser-bg-3x4-ck-achtergrond-doek-3-0x4-0-/)
 
-#### [Pokemon Sword / Shield](https://www.bol.com/nl/p/pokemon-sword-switch/9200000107075673/)
-
-Vanaf september 2019
-
-# Camera remote
+## Camera remote
 [Voor nikon D90](https://www.cameratools.nl/foto-video-accessoires/afstandsbedieningen/caruba-ir-afstandsbediening-cml-l3-niko/)
 
 EUR 15 (of 30+ voor de officiele versie)
@@ -92,15 +102,17 @@ EUR 15 (of 30+ voor de officiele versie)
 Om tijdens de vakanties mee te spelen en bulb mode mogelijk te maken voor
 langere exposures.
 
-# Reis statiefje met flexibele poten
-[Gorrilapod reis statiefje](https://www.foka.nl/product/12234630/joby-gorillapod-3k-kit-black-charcoal?zoek=joby&)
+# Hardlopen
 
-EUR 80
+## In-ear oordopjes
+EUR 20+
 
-Eep, toch een beetje duur, zeker voor een spiegel reflex. Toch maar niet, maar
-stiekem wil ik hem wel :p
+Het is voor tijdens het hardlopen, moet een beetje tegen regen kunnen. Niet
+draadloos.
 
 # Altijd goed
+- Bonsai boom voor op de studeerkamer
 - Whisky
 - [Aparte DnD dobbelstenen](https://www.dnddice.com/sets-of-dice/unusual-sets.html) (EUR 10+) Normale heb ik, maar mooie zijn mooi.
-- Zigbee lampen / sensors
+- Zigbee lampen / sensors / ...
+- Donaties [Bits of Freedom](bitsoffreedom.nl/) [Natuurmonumenten](https://www.natuurmonumenten.nl/)
