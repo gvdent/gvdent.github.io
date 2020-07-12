@@ -9,6 +9,10 @@ kadobonnen, dat is me een deadline geven en die heb ik al genoeg :D
 
 # Spellen
 
+(Board)games zijn sowieso leuk: Samenwerk games, dingen opbouwen (ala
+Agricola/Colonisten). Komt wel met de verplichting een keer mee te spelen,
+natuurlijk.
+
 ## Sushi Go
 EUR 12ish
 
@@ -111,6 +115,7 @@ Het is voor tijdens het hardlopen, moet een beetje tegen regen kunnen. Niet
 draadloos.
 
 # Altijd goed
+- F1 Gear: Lando Norris, Seb Vettel
 - Bonsai boom voor op de studeerkamer
 - Whisky
 - [Aparte DnD dobbelstenen](https://www.dnddice.com/sets-of-dice/unusual-sets.html) (EUR 10+) Normale heb ik, maar mooie zijn mooi.
