@@ -103,6 +103,20 @@ EUR 20+
 Het is voor tijdens het hardlopen, moet een beetje tegen regen kunnen. Niet
 draadloos.
 
+# Computer
+
+## Warthog Hotas
+EUR400+
+[Pricewatch](https://tweakers.net/pricewatch/267820/thrustmaster-hotas-warthog-zilver-zwart.html)
+
+## Rudder pedals
+
+EUR 330
+[MFG Crosswinds](https://mfg-sim.com/en/4-rudders) Out of stock
+
+EUR 80
+[Thrustmaster T Flights](https://tweakers.net/pricewatch/553303/thrustmaster-t-punt-flight-rudder-pedals-zwart.html)
+
 # Altijd goed
 - F1 Gear: Lando Norris, Seb Vettel
 - Bonsai boom voor op de studeerkamer
