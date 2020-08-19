@@ -36,6 +36,20 @@ Look at what they done to my boy: [Meigs Field](https://en.wikipedia.org/wiki/Me
 Recognizable sights, with the wave building and the crater where the needle was
 going to be.
 
+## Texel - Ameland
+
+Date: 2020-08-19
+Departure: Texel EHTX
+Arrival: Ameland EHAL
+ETE: Unknown
+Actual flight time: 37'32"  (According to log)
+
+### Notes
+
+Started (and finished) on parking. Went from cold start to taxi using
+checklists. Wow that was both insightful and fustrating.
+
+
 # Ideas
 
 Chicago, check Meigs Field
