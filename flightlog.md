@@ -59,4 +59,6 @@ South Africa
 Biarritz
 Oman - PDO camp
 LAX - SFO
-Texel
+Grand canyon
+Niagra falls
+
